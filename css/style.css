@@ -910,4 +910,14 @@ section.active {
     .contact-box h2 {
         font-size: 3.5rem;
     }
+
+    .home-img .img-box .img-item img {
+            width: 70%;
+        }
+
+        .home-img .img-box {
+    width: 25rem !important;
+    height: 25rem !important;
+    margin-bottom: 20px;
+}
 }
