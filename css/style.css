@@ -933,3 +933,9 @@ section.active {
     margin-bottom: 30px;
 }
 } 
+
+@media only screen and (max-width:425px) {
+    section.home.active {
+        margin-top:2em;
+    }
+}
