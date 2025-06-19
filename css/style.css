@@ -921,3 +921,15 @@ section.active {
     margin-bottom: 20px;
 }
 }
+
+@media only screen and (min-width:768px) {
+    .home-details h1 {
+    margin-bottom: 20px;
+}
+    .home-details h2 {
+    margin-bottom: 20px;
+}
+    .home-details p {
+    margin-bottom: 30px;
+}
+} 
