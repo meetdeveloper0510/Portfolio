@@ -945,6 +945,6 @@ section.active {
     color: #fff;
 }
 
-.contact-box a.active {
+.contact-box a:hover {
     color: #7CF03D;
 }
