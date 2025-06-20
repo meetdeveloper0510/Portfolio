@@ -944,3 +944,7 @@ section.active {
 .contact-box a {
     color: #fff;
 }
+
+.contact-box a.active {
+    color: #7CF03D;
+}
